@@ -1,9 +1,13 @@
 ---
-title: "Hello World Everybody"
-subtitle: "Learn how to code with Go." 
-excerpt: "Golang, also known as Go, is a statically typed, compiled programming language designed by Google. Let's start with the basics by creating a simple "Hello World" program."
-cover: "/assets/development/hello-world-everybody/code-implementation.jpg"
-date: "2023-03-15T14:22:35.123Z"
+title: Hello World Everybody
+subtitle: Learn how to code with Go.
+keywords:
+  - lorem
+  - ipsum
+  - wonderwul
+excerpt: Golang, also known as Go, is a statically typed, compiled programming language designed by Google. Let's start with the basics by creating a simple "Hello World" program.
+cover: /assets/development/hello-world-everybody/code-implementation.jpg
+date: 2023-03-15T14:22:35.123Z
 ---
 
 ![Woman in tech](code-implementation.jpg)
@@ -42,7 +46,7 @@ func main() {
 
 To run your Go program, open a terminal and navigate to the directory where your `main.go` file is located. Then, execute the following command:
 
-```bash
+```bash title="run file"
 go run main.go
 ```
 

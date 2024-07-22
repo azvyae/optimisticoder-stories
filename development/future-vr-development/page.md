@@ -1,9 +1,13 @@
 ---
-title: "Future VR Development"
-subtitle: "Venenatis cras sed felis eget velit." 
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida."
-cover: "/assets/development/future-vr-development/future-vr-development.jpg"
-date: "2023-09-30T08:47:19.456Z"
+title: Future VR Development
+subtitle: Venenatis cras sed felis eget velit.
+keywords:
+  - lorem
+  - ipsum
+  - wonderwul
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.
+cover: /assets/development/future-vr-development/future-vr-development.jpg
+date: 2023-09-30T08:47:19.456Z
 ---
 
 ![Future VR](future-vr-development.jpg)
@@ -39,6 +43,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras justo odio, dapibu
 ## Challenges and Future Directions
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum.
+
+| Column 1      | Column 2      |
+| ------------- | ------------- |
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 1, Row 2 |
 
 ### Technical Limitations
 

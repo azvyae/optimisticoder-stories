@@ -1,9 +1,13 @@
 ---
-title: "How to Store Your Photography Results"
-subtitle: "Organize and preserve your precious memories."
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida."
-cover: "/assets/arts/how-to-store-your-photography-results/how-to-store-your-photography-results.jpg"
-date: "2023-11-18T19:12:04.789Z"
+title: How to Store Your Photography Results
+subtitle: Organize and preserve your precious memories.
+keywords:
+  - lorem
+  - ipsum
+  - wonderwul
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.
+cover: /assets/arts/how-to-store-your-photography-results/how-to-store-your-photography-results.jpg
+date: 2023-12-18T19:12:04.789Z
 ---
 
 ![Photography Storage](pictures-in-a-gallery.jpg)
