@@ -1,0 +1,10 @@
+name: Publish New Story
+on:
+  push:
+    branches: ["main"]
+jobs:
+  redeploy-production:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deployment
+        run: curl -X POST ${{ secrets.OPTIMISTICODER_API }}
