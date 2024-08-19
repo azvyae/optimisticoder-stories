@@ -6,7 +6,7 @@ keywords:
   - ipsum
   - wonderwul
 excerpt: Golang, also known as Go, is a statically typed, compiled programming language designed by Google. Let's start with the basics by creating a simple "Hello World" program.
-cover: /assets/development/hello-world-everybody/code-implementation.jpg
+cover: /assets/dev/hello-world-everybody/code-implementation.jpg
 date: 2023-03-15T14:22:35.123Z
 ---
 

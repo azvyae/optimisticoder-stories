@@ -6,7 +6,7 @@ keywords:
   - ipsum
   - wonderwul
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.
-cover: /assets/development/future-vr-development/future-vr-development.jpg
+cover: /assets/dev/future-vr-development/future-vr-development.jpg
 date: 2023-09-30T08:47:19.456Z
 ---
 
