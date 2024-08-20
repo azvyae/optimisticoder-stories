@@ -4,7 +4,6 @@ subtitle: Organize and preserve your precious memories.
 keywords:
   - lorem
   - ipsum
-  - wonderwul
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.
 cover: /assets/arts/how-to-store-your-photography-results/pictures-in-a-gallery.jpg
 date: 2023-12-18T19:12:04.789Z

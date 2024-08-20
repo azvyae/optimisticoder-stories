@@ -4,7 +4,6 @@ subtitle: Exploring the crucial role of directors after filming wraps.
 keywords:
   - lorem
   - ipsum
-  - wonderwul
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.
 cover: /assets/arts/what-directors-do-in-post-production/recording-session-director.jpg
 date: 2024-02-06T04:53:26.101Z
