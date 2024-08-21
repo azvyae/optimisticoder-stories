@@ -6,7 +6,7 @@ keywords:
   - agile
   - software
   - project
-excerpt: Master Agile and Scrum methodologies by leveraging GitHub Projects for effective sprint planning. This guide covers how to review past sprints, update project trackers, assign tasks, and ensure a smooth development process, all within GitHub Projects.
+excerpt: Today, Agile methodology is being used across companies, teams, or even for developing personal projects. Agile and scrum are know terms that commonly used in software development.
 cover: /assets/dev/sprint-planning-using-github-projects/github-projects.jpg
 date: 2024-08-21T12:40:02.062Z
 ---
