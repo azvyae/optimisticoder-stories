@@ -6,7 +6,7 @@ keywords:
   - hooks
   - slots
 excerpt: Learn how to implement flexible web component-style slots in React using custom hooks. This guide presents a TypeScript-compatible solution for creating modular, reusable layouts with intuitive component composition, enhancing your React development workflow.
-cover: /assets/dev/sprint-planning-using-github-projects/github-projects.jpg
+cover: /assets/dev/how-to-implement-slots-in-react-with-web-components-style/react-slotted-component.jpg
 date: 2024-08-28T21:57:41.619Z
 ---
 
