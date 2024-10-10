@@ -58,7 +58,7 @@ async function indexFiles() {
         subtitle: data.subtitle,
         keywords: data.keywords,
         excerpt: data.excerpt,
-        cover: `/stories/${category}/${slug}/${data.cover}`,
+        cover: `${category}/${slug}/${data.cover}`,
         date: data.date,
         readTime: readingTime(content).text,
       });
