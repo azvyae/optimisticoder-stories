@@ -8,6 +8,7 @@
       "lorem",
       "ipsum"
     ],
+<<<<<<< HEAD
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.",
     "cover": "arts/what-directors-do-in-post-production/recording-session-director.jpg",
     "date": "2024-02-06T04:53:26.101Z",
@@ -18,10 +19,23 @@
     "slug": "how-to-store-your-photography-results",
     "category": "arts",
     "subtitle": "Organize and preserve your precious memories.",
+=======
+    "excerpt": "Learn how to implement flexible web component-style slots in React using custom hooks. This guide presents a TypeScript-compatible solution for creating modular, reusable layouts with intuitive component composition, enhancing your React development workflow.",
+    "cover": "dev/how-to-implement-slots-in-react-with-web-components-style/react-slotted-component.jpg",
+    "date": "2024-08-28T21:57:41.619Z",
+    "readTime": "4 min read"
+  },
+  {
+    "title": "Sprint Planning Using GitHub Projects",
+    "slug": "sprint-planning-using-github-projects",
+    "category": "dev",
+    "subtitle": "Enhance Agile Development: Sprint Planning with GitHub Projects",
+>>>>>>> main
     "keywords": [
       "lorem",
       "ipsum"
     ],
+<<<<<<< HEAD
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.",
     "cover": "arts/how-to-store-your-photography-results/pictures-in-a-gallery.jpg",
     "date": "2023-12-18T19:12:04.789Z",
@@ -71,5 +85,11 @@
     "cover": "dev/hello-world-everybody/code-implementation.jpg",
     "date": "2023-03-15T14:22:35.123Z",
     "readTime": "2 min read"
+=======
+    "excerpt": "Today, Agile methodology is being used across companies, teams, or even for developing personal projects. Agile and scrum are know terms that commonly used in software development.",
+    "cover": "dev/sprint-planning-using-github-projects/github-projects.jpg",
+    "date": "2024-08-21T12:40:02.062Z",
+    "readTime": "5 min read"
+>>>>>>> main
   }
 ]
