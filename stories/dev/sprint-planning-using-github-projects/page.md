@@ -1,5 +1,5 @@
 ---
-title: Sprint Planning Using GitHub Projects
+title: Sprint Planning Using GitHub Projects
 subtitle: "Enhance Agile Development: Sprint Planning with GitHub Projects"
 keywords:
   - github
@@ -7,7 +7,7 @@ keywords:
   - software
   - project
 excerpt: Today, Agile methodology is being used across companies, teams, or even for developing personal projects. Agile and scrum are know terms that commonly used in software development.
-cover: /assets/dev/sprint-planning-using-github-projects/github-projects.jpg
+cover: github-projects.jpg
 date: 2024-08-21T12:40:02.062Z
 ---
 
