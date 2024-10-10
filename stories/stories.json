@@ -9,7 +9,7 @@
       "ipsum"
     ],
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.",
-    "cover": "/stories/arts/what-directors-do-in-post-production/recording-session-director.jpg",
+    "cover": "arts/what-directors-do-in-post-production/recording-session-director.jpg",
     "date": "2024-02-06T04:53:26.101Z",
     "readTime": "3 min read"
   },
@@ -23,7 +23,7 @@
       "ipsum"
     ],
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.",
-    "cover": "/stories/arts/how-to-store-your-photography-results/pictures-in-a-gallery.jpg",
+    "cover": "arts/how-to-store-your-photography-results/pictures-in-a-gallery.jpg",
     "date": "2023-12-18T19:12:04.789Z",
     "readTime": "3 min read"
   },
@@ -38,7 +38,7 @@
       "wonderwul"
     ],
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.",
-    "cover": "/stories/game/evolution-in-gaming/game-evolution.jpg",
+    "cover": "game/evolution-in-gaming/game-evolution.jpg",
     "date": "2023-11-18T19:12:04.789Z",
     "readTime": "3 min read"
   },
@@ -53,7 +53,7 @@
       "wonderwul"
     ],
     "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.",
-    "cover": "/stories/dev/future-vr-development/future-vr-development.jpg",
+    "cover": "dev/future-vr-development/future-vr-development.jpg",
     "date": "2023-09-30T08:47:19.456Z",
     "readTime": "3 min read"
   },
@@ -68,7 +68,7 @@
       "wonderwul"
     ],
     "excerpt": "Golang, also known as Go, is a statically typed, compiled programming language designed by Google. Let's start with the basics by creating a simple \"Hello World\" program.",
-    "cover": "/stories/dev/hello-world-everybody/code-implementation.jpg",
+    "cover": "dev/hello-world-everybody/code-implementation.jpg",
     "date": "2023-03-15T14:22:35.123Z",
     "readTime": "2 min read"
   }
