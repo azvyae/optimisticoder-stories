@@ -1,0 +1,33 @@
+[
+  {
+    "title": "How To Implement Slots in React with Web Components Style",
+    "slug": "how-to-implement-slots-in-react-with-web-components-style",
+    "category": "dev",
+    "subtitle": "Implementing Flexible Web Component-Style Slots in React: A Custom Hook Approach",
+    "keywords": [
+      "react",
+      "hooks",
+      "slots"
+    ],
+    "excerpt": "Learn how to implement flexible web component-style slots in React using custom hooks. This guide presents a TypeScript-compatible solution for creating modular, reusable layouts with intuitive component composition, enhancing your React development workflow.",
+    "cover": "/stories/dev/how-to-implement-slots-in-react-with-web-components-style//assets/dev/how-to-implement-slots-in-react-with-web-components-style/react-slotted-component.jpg",
+    "date": "2024-08-28T21:57:41.619Z",
+    "readTime": "4 min read"
+  },
+  {
+    "title": "Sprint Planning Using GitHub Projects",
+    "slug": "sprint-planning-using-github-projects",
+    "category": "dev",
+    "subtitle": "Enhance Agile Development: Sprint Planning with GitHub Projects",
+    "keywords": [
+      "github",
+      "agile",
+      "software",
+      "project"
+    ],
+    "excerpt": "Today, Agile methodology is being used across companies, teams, or even for developing personal projects. Agile and scrum are know terms that commonly used in software development.",
+    "cover": "/stories/dev/sprint-planning-using-github-projects//assets/dev/sprint-planning-using-github-projects/github-projects.jpg",
+    "date": "2024-08-21T12:40:02.062Z",
+    "readTime": "5 min read"
+  }
+]

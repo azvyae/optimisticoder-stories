@@ -1,0 +1,22 @@
+name: Publish New Story
+on:
+  push:
+    branches: ["main"]
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Index and update stories
+        shell: 'script -q -e -c "bash {0}"'
+        run: npm i -g pnpm typescript && pnpm i && pnpm build
+      - name: Commit and publish indexes
+        run: |
+          git config --global user.name 'Optimisticoder Publisher'
+          git config --global user.email 'me@optimisticoder.com'
+          git add -A
+          git commit -m "Automated story publising"
+          git push
