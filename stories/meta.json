@@ -1,6 +1,8 @@
 {
-  "totalStories": 2,
+  "totalStories": 5,
   "categories": [
-    "dev"
+    "arts",
+    "dev",
+    "game"
   ]
 }

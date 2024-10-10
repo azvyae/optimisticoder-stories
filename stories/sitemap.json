@@ -1,13 +1,31 @@
 [
   {
-    "url": "https://optimisticoder.com/stories/how-to-implement-slots-in-react-with-web-components-style",
-    "lastModified": "2024-08-28T21:57:41.619Z",
+    "url": "https://optimisticoder.com/stories/what-directors-do-in-post-production",
+    "lastModified": "2024-02-06T04:53:26.101Z",
     "changeFrequency": "weekly",
     "priority": 0.5
   },
   {
-    "url": "https://optimisticoder.com/stories/sprint-planning-using-github-projects",
-    "lastModified": "2024-08-21T12:40:02.062Z",
+    "url": "https://optimisticoder.com/stories/how-to-store-your-photography-results",
+    "lastModified": "2023-12-18T19:12:04.789Z",
+    "changeFrequency": "weekly",
+    "priority": 0.5
+  },
+  {
+    "url": "https://optimisticoder.com/stories/evolution-in-gaming",
+    "lastModified": "2023-11-18T19:12:04.789Z",
+    "changeFrequency": "weekly",
+    "priority": 0.5
+  },
+  {
+    "url": "https://optimisticoder.com/stories/future-vr-development",
+    "lastModified": "2023-09-30T08:47:19.456Z",
+    "changeFrequency": "weekly",
+    "priority": 0.5
+  },
+  {
+    "url": "https://optimisticoder.com/stories/hello-world-everybody",
+    "lastModified": "2023-03-15T14:22:35.123Z",
     "changeFrequency": "weekly",
     "priority": 0.5
   }
