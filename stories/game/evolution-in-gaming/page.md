@@ -6,7 +6,7 @@ keywords:
   - ipsum
   - wonderwul
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida.
-cover: /assets/game/evolution-in-gaming/game-evolution.jpg
+cover: game-evolution.jpg
 date: 2023-11-18T19:12:04.789Z
 ---
 
